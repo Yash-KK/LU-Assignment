@@ -1,4 +1,3 @@
-from unicodedata import name
 from PIL import Image
 from PIL import ImageDraw, ImageFont
 
